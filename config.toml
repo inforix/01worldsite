@@ -1,0 +1,4 @@
+baseURL = "http://01world.info/"
+languageCode = "zh-Hans"
+title = "01WORLD"
+theme = "ananke"
